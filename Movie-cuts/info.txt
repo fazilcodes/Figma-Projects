@@ -1,0 +1,3 @@
+Contains Figma design file for Movie cuts Project
+
+@fazicodes
